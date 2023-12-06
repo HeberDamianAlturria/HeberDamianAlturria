@@ -1,4 +1,6 @@
-<h1 align="center">Hey! I'm Heber 😄</h1> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hey!+I'm+Heber+%F0%9F%98%84" width="800" alt="greeting" />
+</div>
 
 <div id="gif" align="center">
   <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="400"/>
