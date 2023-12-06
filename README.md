@@ -31,6 +31,7 @@ const personalInformation = {
       institute: "FAMAF, UNC",
       startDate: "2020/02/01",
       endDate: "Now",
+      completed: false,
     },
     {
       level: "High school",
@@ -38,6 +39,7 @@ const personalInformation = {
       institute: "IPETyM Nº61, El Pueblito",
       startDate: "2013/03/01",
       endDate: "2019/12/01",
+      completed: true,
     },
   ],
   interests: [
