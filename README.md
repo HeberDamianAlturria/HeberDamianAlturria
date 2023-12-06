@@ -1,4 +1,6 @@
-<div id="header" align="center">
+<h1 align="center">Hi, I'm Heber 😄</h1> 
+
+<div id="git" align="center">
   <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="400"/>
 </div>
 
@@ -14,6 +16,41 @@
   </a>
 </div>
 
+<hr />
+
+# About me 😎
+
+```javascript
+const personalInformation = {
+  name: "Heber Alturria 👨🏻‍💻",
+  country: "Cordoba, Argentina 🧉",
+  education: [
+    {
+      level: "University",
+      title: "Computer Science Degree",
+      institute: "FAMAF, UNC",
+      startDate: "2020/02/01".
+      endDate: "Now",
+    },
+    {
+      level: "High school",
+      title: "Multimedia Arts",
+      institute: "IPETyM Nº61, El Pueblito",
+      startDate: "2013/03/01",
+      endDate: "2019/12/01",
+    },
+  ],
+  interests: [
+    "Math",
+    "Databases",
+    "FrontEnd",
+    "BackEnd",
+    "Fullstack",
+    "Machine Learning",
+    "Programming Languages",
+  ],
+};
+```
 
 <!--
 **HeberDamianAlturria/HeberDamianAlturria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
