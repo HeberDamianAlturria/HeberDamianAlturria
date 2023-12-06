@@ -2,6 +2,19 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
+<div id="socialMedia" align="center">
+  <a href="https://leetcode.com/Heber_Alturria/" alt="LeetCode logo">
+    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/heber-alturria/" alt="LinkedIn logo">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:heber.alturria.git@gmail.com" alt="Gmail logo">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
 <!--
 **HeberDamianAlturria/HeberDamianAlturria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
