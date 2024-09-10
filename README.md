@@ -81,9 +81,7 @@ const personalInformation = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp logo" width="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS logo" width="70" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" width="70" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="Scala logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter logo" width="70" />
