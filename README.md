@@ -73,6 +73,7 @@ const personalInformation = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="70" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang logo" width="70" />
 </div>
 
 # Technologies I wanna learn 🧠
@@ -86,5 +87,4 @@ const personalInformation = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter logo" width="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" alt="Elixir logo" width="70" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang logo" width="70" />
 </div>
